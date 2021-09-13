@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1621900199 source:c:\users\lenovo\desktop\pruebas_code_y_dev\code 2021\herencia\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstdio>
+	"Persona.h"
+	"Almuno.h"
+
+1621900944 c:\users\lenovo\desktop\pruebas_code_y_dev\code 2021\herencia\include\persona.h
+
+1621900853 c:\users\lenovo\desktop\pruebas_code_y_dev\code 2021\herencia\include\almuno.h
+	"Persona.h"
+
+1621900199 source:c:\users\lenovo\desktop\pruebas_code_y_dev\code 2021\herencia\src\almuno.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstdio>
+	"Almuno.h"
+	"Persona.h"
+
+1621900199 source:c:\users\lenovo\desktop\pruebas_code_y_dev\code 2021\herencia\src\persona.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstdio>
+	"Persona.h"
+	"Almuno.h"
+
